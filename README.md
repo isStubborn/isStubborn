@@ -1,0 +1,3 @@
+- 👋 Ahoy! I’m @isStubborn, you can call me Mike or Michael.
+- Currently trying to learn Python coding
+- Dreaming of building my own spaceship🚀
